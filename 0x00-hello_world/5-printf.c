@@ -1,5 +1,5 @@
 #include <stdio.h>
-/*
+/**
  * main - A program to print out a string using std output
  * Return: 0 (Sucess)
  */
